@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jongil/github_jipiration/MLOps-tutorials/mlflow/quickstart/mlruns/0/43f0fe33279a447cac522c1aacdcae68/artifacts
+end_time: 1622353003236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 43f0fe33279a447cac522c1aacdcae68
+run_uuid: 43f0fe33279a447cac522c1aacdcae68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1622353003221
+status: 3
+tags: []
+user_id: jongil
